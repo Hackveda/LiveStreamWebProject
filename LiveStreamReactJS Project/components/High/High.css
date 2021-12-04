@@ -1,0 +1,21 @@
+.high {
+  align-items: center;
+  background-color: var(--mariner);
+  border-radius: 5px;
+  display: flex;
+  height: 25px;
+  margin-left: 40px;
+  min-width: 75px;
+  padding: 0 13px;
+}
+
+.buy-now {
+  letter-spacing: 0;
+  min-height: 15px;
+  min-width: 49px;
+}
+
+.high.high-1 {
+  margin-left: 38px;
+}
+

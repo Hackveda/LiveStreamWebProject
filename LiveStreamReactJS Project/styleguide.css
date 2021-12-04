@@ -1,0 +1,163 @@
+:root { 
+  --athens-gray: #edf0f7;
+  --black: #000000;
+  --blue-charcoal: #040a19;
+  --mariner: #285feb;
+  --orange-red: #ff2424;
+  --razzle-dazzle-rose: #ec28c10f;
+  --razzle-dazzle-rose-2: #ec28c1;
+  --solitude: #e9f4ff;
+  --tropical-blue: #cdd9f7;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 17px;
+  --font-size-xxxl: 18px;
+ 
+  --font-family-cera_compact_pro-bold: "Cera Compact Pro-Bold", Helvetica;
+  --font-family-cera_compact_pro-medium: "Cera Compact Pro-Medium", Helvetica;
+  --font-family-cera_compact_pro-regular: "Cera Compact Pro-Regular", Helvetica;
+  --font-family-cera_pro-medium: "Cera Pro-Medium", Helvetica;
+  --font-family-cera_pro-regular: "Cera Pro-Regular", Helvetica;
+}
+.ceracompactpro-regular-normal-blue-charcoal-12px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cerapro-regular-normal-blue-charcoal-14px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cerapro-medium-blue-charcoal-14px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_pro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.cerapro-medium-blue-charcoal-12px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_pro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-regular-normal-blue-charcoal-14px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ceracompactpro-regular-normal-blue-charcoal-18px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ceracompactpro-medium-blue-charcoal-16px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-medium-blue-charcoal-14px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-bold-blue-charcoal-17px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ceracompactpro-medium-blue-charcoal-18px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.cerapro-regular-normal-blue-charcoal-12px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_pro-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ceracompactpro-medium-blue-charcoal-17px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.cerapro-medium-blue-charcoal-16px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_pro-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-medium-razzle-dazzle-rose-12px {
+  color: var(--razzle-dazzle-rose-2);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ceracompactpro-medium-blue-charcoal-12px {
+  color: var(--blue-charcoal);
+  font-family: var(--font-family-cera_compact_pro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.cerapro-medium-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-cera_pro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-tropical-blue {
+  border: 1px solid var(--tropical-blue);
+}

@@ -1,0 +1,79 @@
+.profile-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 43px;
+  width: 332px;
+}
+
+.flex-row-9 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  min-width: 324px;
+}
+
+.rectangle-41 {
+  height: 26px;
+  object-fit: cover;
+  width: 26px;
+}
+
+.name-4 {
+  letter-spacing: 0.48px;
+  margin-left: 16px;
+  min-height: 20px;
+  min-width: 79px;
+}
+
+.x5m-ago {
+  letter-spacing: 0.36px;
+  margin-bottom: 1.0px;
+  margin-left: 164px;
+  min-height: 15px;
+  min-width: 39px;
+  opacity: 0.7;
+}
+
+.flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  margin-right: 6.0px;
+  margin-top: 2px;
+  min-width: 242px;
+}
+
+.get-thats-link {
+  letter-spacing: 0.36px;
+  min-height: 15px;
+  min-width: 74px;
+  opacity: 0.7;
+}
+
+.bxbx-link {
+  height: 14px;
+  margin-left: 5px;
+  width: 14px;
+}
+
+.text-1 {
+  letter-spacing: 0.36px;
+  margin-left: 5px;
+  min-height: 15px;
+  opacity: 0.7;
+  text-decoration: underline;
+}
+
+.profile-4.profile-3 {
+  margin-top: 20px;
+}
+
+.profile-4.profile-3 .name-4 {
+  min-width: 82px;
+}
+
+.profile-4.profile-3 .x5m-ago {
+  margin-left: 161px;
+}
+
